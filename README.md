@@ -67,3 +67,7 @@ MAX_CONCURRENT_DOWNLOADS = 10        # 最大并发下载数
 ## 许可证
 
 MIT License 
+
+## 测试
+
+![](image.png)
